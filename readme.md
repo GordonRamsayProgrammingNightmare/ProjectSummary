@@ -48,3 +48,6 @@
 - 11월 4주차 :
 	- `Frontend` : Mypage 및 Testing
 	- `Backend` : 사진 검색 API
+
+## Study
+- 11월 첫 스터디 : [Angular](https://angular.io) 홈페이지 접속하여 Docs -> Getting Started -> Tutorial ~4번까지 공부해오기
